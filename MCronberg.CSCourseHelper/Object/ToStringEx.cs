@@ -1,7 +1,7 @@
 ﻿namespace MCronberg
 {
     using System.Linq;
-    public static class MCronbergExtensions
+    public static class Extensions
     {
 
         public static string ToJsonString(this object obj, bool indented = false)

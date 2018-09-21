@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MCronberg.PersonNuGetPackage
+namespace MCronberg.PeopleHelper
 {
     public interface IPersonRepository
     {
