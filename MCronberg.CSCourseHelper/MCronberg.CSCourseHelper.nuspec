@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MCronberg.CSCourseHelper</id>
+    <version>1.3</version>
+    <title>MCronberg.CSCourseHelper</title>
+    <authors>Michell Cronberg</authors>
+    <owners>Michell Cronberg</owners>    
+    <projectUrl>https://github.com/devcronberg/CSCourseHelper</projectUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Klasser og extensions relateret til grundlæggende C# kurser</description>
+    <releaseNotes>Navne fixet</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags></tags>
+  </metadata>
+</package>
